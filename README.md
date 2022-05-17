@@ -4,4 +4,4 @@
 
 Experiments with Vaex in Orchest.
 
-![Pipeline visualization](https://pviz.orchest.io/?pipeline=https://github.com/astrojuanlu/orchest-sqlalchemy/blob/main/main.orchest)
+![Pipeline visualization](https://pviz.orchest.io/?pipeline=https://github.com/astrojuanlu/orchest-sqlalchemy/blob/master/main.orchest)
